@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="13.02212mm"
+   height="11.46718mm"
+   viewBox="0 0 13.02212 11.46718"
+   version="1.1"
+   id="svg174"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs168">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect64"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect68"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect72"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-75.391268"
+     inkscape:cy="267.38455"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1346"
+     inkscape:window-height="1040"
+     inkscape:window-x="178"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata171">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-125.78061,-77.421172)">
+    <g
+       id="g127"
+       transform="translate(-21.180266,16.694901)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 153.45833,72.193451 V 60.854166"
+         id="path62"
+         inkscape:path-effect="#path-effect64"
+         inkscape:original-d="m 153.45833,72.193451 c 2.7e-4,-3.779496 2.7e-4,-7.55926 0,-11.339285" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 153.45833,60.854166 -6.42559,4.157739"
+         id="path66"
+         inkscape:path-effect="#path-effect68"
+         inkscape:original-d="m 153.45833,60.854166 c -2.1416,1.386176 -4.28347,2.77209 -6.42559,4.157739" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 153.39933,60.838871 6.51422,4.017451"
+         id="path70"
+         inkscape:path-effect="#path-effect72"
+         inkscape:original-d="m 153.39933,60.838871 c 2.17153,1.3388 4.34294,2.677955 6.51422,4.017451"
+         inkscape:transform-center-x="-3.2418926"
+         inkscape:transform-center-y="1.9767261" />
+    </g>
+  </g>
+</svg>
